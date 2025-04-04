@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/test-jeevan/static/css/main.9e5163f3.css",
+    "main.js": "/test-jeevan/static/js/main.2ef9602b.js",
+    "static/js/453.fd31aa8c.chunk.js": "/test-jeevan/static/js/453.fd31aa8c.chunk.js",
+    "static/media/fira-code-latin-400-normal.woff": "/test-jeevan/static/media/fira-code-latin-400-normal.f6c6f117610544fb0dc1.woff",
+    "static/media/fira-code-latin-400-normal.woff2": "/test-jeevan/static/media/fira-code-latin-400-normal.602eb93fcc55fbc80a4f.woff2",
+    "static/media/fira-code-cyrillic-ext-400-normal.woff": "/test-jeevan/static/media/fira-code-cyrillic-ext-400-normal.540023a9b46a9d831de2.woff",
+    "static/media/fira-code-cyrillic-ext-400-normal.woff2": "/test-jeevan/static/media/fira-code-cyrillic-ext-400-normal.508458e8abdccadea533.woff2",
+    "static/media/fira-code-latin-ext-400-normal.woff": "/test-jeevan/static/media/fira-code-latin-ext-400-normal.cdee089641063008e2be.woff",
+    "static/media/fira-code-greek-400-normal.woff": "/test-jeevan/static/media/fira-code-greek-400-normal.ec960df5068862243cbc.woff",
+    "static/media/fira-code-cyrillic-400-normal.woff": "/test-jeevan/static/media/fira-code-cyrillic-400-normal.9aada3df8b392ef1bbc7.woff",
+    "static/media/fira-code-greek-400-normal.woff2": "/test-jeevan/static/media/fira-code-greek-400-normal.1c15ffeb30a43928dcfd.woff2",
+    "static/media/fira-code-latin-ext-400-normal.woff2": "/test-jeevan/static/media/fira-code-latin-ext-400-normal.b97c297bd52859a0d424.woff2",
+    "static/media/fira-code-greek-ext-400-normal.woff": "/test-jeevan/static/media/fira-code-greek-ext-400-normal.e0547b72c3661e9eceff.woff",
+    "static/media/fira-code-cyrillic-400-normal.woff2": "/test-jeevan/static/media/fira-code-cyrillic-400-normal.e1e9e3ed08af5b50de41.woff2",
+    "static/media/fira-code-greek-ext-400-normal.woff2": "/test-jeevan/static/media/fira-code-greek-ext-400-normal.4d56ea953041d06820e2.woff2",
+    "index.html": "/test-jeevan/index.html",
+    "main.9e5163f3.css.map": "/test-jeevan/static/css/main.9e5163f3.css.map",
+    "main.2ef9602b.js.map": "/test-jeevan/static/js/main.2ef9602b.js.map",
+    "453.fd31aa8c.chunk.js.map": "/test-jeevan/static/js/453.fd31aa8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e5163f3.css",
+    "static/js/main.2ef9602b.js"
+  ]
+}

@@ -131,7 +131,7 @@ function App() {
   return (
     <div className="App">
       <div className="game-container">
-        <h1 className="name">JEEVAN</h1>
+        <h1 className="name">JEEVANCHY GAMES</h1>
         <div className="tv-frame">
           <div className="tv-screen">
             <div className="dot-grid">
